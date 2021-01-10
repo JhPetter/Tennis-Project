@@ -1,0 +1,1 @@
+class Player(var name: String, var abilityLevel: Int)
